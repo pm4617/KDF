@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[About to begin executing Test Sample Test]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[listOfTestCases=============*****************[TC001]]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[sheetNameCapturedObjectProperties----sheetName, pathOFFileC:\Users\MY PC\Documents\NetBeansProjects\Selenium-Testing-Automation-Framework-master\TestCases2.xlsx]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of columns]]>
+    </line>
+    <line>
+      <![CDATA[sheetNameTC002_DS----sheetName, pathOFFileC:\Users\MY PC\Documents\NetBeansProjects\Selenium-Testing-Automation-Framework-master\TestCases2.xlsx]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of columns]]>
+    </line>
+    <line>
+      <![CDATA[sheetNameTC001_DS----sheetName, pathOFFileC:\Users\MY PC\Documents\NetBeansProjects\Selenium-Testing-Automation-Framework-master\TestCases2.xlsx]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of columns]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[About to end executing Test TC001]]>
+    </line>
+    <line>
+      <![CDATA[size====2]]>
+    </line>
+    <line>
+      <![CDATA[column valueee======[Selenium 654641897]]]>
+    </line>
+    <line>
+      <![CDATA[column value size===========1]]>
+    </line>
+    <line>
+      <![CDATA[testCaseExecution======================1]]>
+    </line>
+    <line>
+      <![CDATA[exTC001]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Pass]]>
+    </line>
+    <line>
+      <![CDATA[TC001]]>
+    </line>
+    <line>
+      <![CDATA[About to end executing Test Sample Test]]>
+    </line>
+  </reporter-output>
+  <suite name="Sample Suite" duration-ms="976345" started-at="2017-09-17T17:45:51Z" finished-at="2017-09-17T18:02:07Z">
+    <groups>
+    </groups>
+    <test name="Sample Test" duration-ms="976345" started-at="2017-09-17T17:45:51Z" finished-at="2017-09-17T18:02:07Z">
+      <class name="main.java.util.ExecuteTestCases">
+        <test-method status="PASS" signature="setup()[pri:0, instance:main.java.util.ExecuteTestCases@4690b489]" test-instance-name=" " name="setup" is-config="true" duration-ms="121907" started-at="2017-09-17T23:15:51Z" finished-at="2017-09-17T23:17:53Z">
+          <reporter-output>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[listOfTestCases=============*****************[TC001]]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[sheetNameCapturedObjectProperties----sheetName, pathOFFileC:\Users\MY PC\Documents\NetBeansProjects\Selenium-Testing-Automation-Framework-master\TestCases2.xlsx]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of columns]]>
+            </line>
+            <line>
+              <![CDATA[sheetNameTC002_DS----sheetName, pathOFFileC:\Users\MY PC\Documents\NetBeansProjects\Selenium-Testing-Automation-Framework-master\TestCases2.xlsx]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of columns]]>
+            </line>
+            <line>
+              <![CDATA[sheetNameTC001_DS----sheetName, pathOFFileC:\Users\MY PC\Documents\NetBeansProjects\Selenium-Testing-Automation-Framework-master\TestCases2.xlsx]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of columns]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testSample1(java.lang.String)[pri:0, instance:main.java.util.ExecuteTestCases@4690b489]" test-instance-name=" " name="TC001" duration-ms="853589" started-at="2017-09-17T23:17:53Z" data-provider="dp" finished-at="2017-09-17T23:32:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC001]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[size====2]]>
+            </line>
+            <line>
+              <![CDATA[column valueee======[Selenium 654641897]]]>
+            </line>
+            <line>
+              <![CDATA[column value size===========1]]>
+            </line>
+            <line>
+              <![CDATA[testCaseExecution======================1]]>
+            </line>
+            <line>
+              <![CDATA[exTC001]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC001 -->
+        <test-method status="PASS" signature="testData([Ljava.lang.Object;)[pri:0, instance:main.java.util.ExecuteTestCases@4690b489]" test-instance-name=" " name="testData" is-config="true" duration-ms="0" started-at="2017-09-17T23:17:53Z" finished-at="2017-09-17T23:17:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@2eaef76d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testData -->
+        <test-method status="PASS" signature="setResultTestName(org.testng.ITestResult)[pri:0, instance:main.java.util.ExecuteTestCases@4690b489]" test-instance-name=" " name="setResultTestName" is-config="true" duration-ms="0" started-at="2017-09-17T23:32:06Z" finished-at="2017-09-17T23:32:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC001 status=SUCCESS method=ExecuteTestCases.testSample1(java.lang.String)[pri:0, instance:main.java.util.ExecuteTestCases@4690b489] output=size====2]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[TC001]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setResultTestName -->
+        <test-method status="PASS" signature="cleanup()[pri:0, instance:main.java.util.ExecuteTestCases@4690b489]" test-instance-name=" " name="cleanup" is-config="true" duration-ms="818" started-at="2017-09-17T23:32:06Z" finished-at="2017-09-17T23:32:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+      </class> <!-- main.java.util.ExecuteTestCases -->
+    </test> <!-- Sample Test -->
+  </suite> <!-- Sample Suite -->
+</testng-results>

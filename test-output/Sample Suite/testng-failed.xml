@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Sample Suite]">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    <listener class-name="main.java.util.TestListener"/>
+  </listeners>
+  <test name="Sample Test(failed)">
+    <classes>
+      <class name="main.java.util.ExecuteTestCases">
+        <methods>
+          <include name="setResultTestName"/>
+          <include name="setup"/>
+          <include name="cleanup"/>
+          <include name="testSample1" invocation-numbers="0"/>
+          <include name="testData"/>
+        </methods>
+      </class> <!-- main.java.util.ExecuteTestCases -->
+    </classes>
+  </test> <!-- Sample Test(failed) -->
+</suite> <!-- Failed suite [Sample Suite] -->
