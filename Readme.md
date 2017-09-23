@@ -1,9 +1,9 @@
-Selenium OSTAF
+Selenium KDF
 ===============
 Selenium Open Source Testing Automation Framework(OSTAF) is a framework which helps the tester in automating test execution of web applications without 
 recording or writing the selenium scripts.
 
-How to build
+How to build 
 -------------
 Unzip the selenium OSTAF zip to a folder on local machine
 Open Command Prompt as administrator
@@ -15,7 +15,7 @@ run the command "maven install" and click enter Key in keyboard
 
 How to use
 -----------
-The SeleniumOSTAF-0.0.1-SNAPSHOT jar generated from the build can be placed anywhere in the system and config.properties file
+The KDF-0.0.1-SNAPSHOT jar generated from the build can be placed anywhere in the system and config.properties file
 need to be in the same directory or folder where the jar is placed.
 
 Tester needs to be fill the configuration details like 
